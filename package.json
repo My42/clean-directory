@@ -1,5 +1,5 @@
 {
-  "name": "cleanDirectory",
+  "name": "empty-directory",
   "version": "1.0.0",
   "description": "Empty a directory",
   "main": "app.js",
