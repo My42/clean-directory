@@ -1,6 +1,8 @@
 # empty-directory
 A node.js module for empty a directory
 
+[![NPM](https://nodei.co/npm/empty-directory.png)](https://nodei.co/npm/empty-directory/)
+
 [![npm version](https://badge.fury.io/js/empty-directory.svg)](https://badge.fury.io/js/empty-directory)
 
 ## Install
