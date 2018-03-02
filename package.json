@@ -6,7 +6,7 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test/test.js"
   },
-  "repository": "My42/cleanDirectory",
+  "repository": "My42/clean-directory",
   "keywords": [
     "empty",
     "directory",
